@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. EE, SUSTech, Shenzhen, China, 2013-2017, Supervisor: Jin Zhang
+* Ph.D ECE, Utah State University, Utah, US, 2019-2024 (expected), Supervisor: Rose Hu
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2016: Developer Intern
+  * Tatfook Company
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Xizhi Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2019: Software Engineer
+  * Sangfor Technologies
+  * Duties included: Software 
+  * Supervisor: Zhongyao Shan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab
+* Python
 
 Publications
 ======
@@ -48,11 +43,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
