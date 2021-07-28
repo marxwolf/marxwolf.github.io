@@ -16,6 +16,10 @@ redirect_from:
 
 # Recent News
 
+* 07/11/2021 A paper accepted by VTC-2021 Fall, coming soon.
+
+* 01/05/2021 Start to work as a TA for ECE 6600
+
 * 08/31/2020 Start to work as a TA for ECE 5600 and RA for RFID project.
 
 * 08/16/2020 GlobeCom 2020 paper titled *Scheduling Policy and Power Allocation for Federated Learning in NOMA based MEC* accepted, **Xiang Ma**, Haijian Sun, Rose Q Hu, available on [arXiv](https://arxiv.org/abs/2006.13044)
