@@ -16,12 +16,14 @@ redirect_from:
 
 # Recent News
 
-* 07/11/2021 A paper accepted by VTC-2021 Fall, coming soon.
+* 08/03/2021 Paper review for TVT, VTM, TWC, WCM, WiseML21, ICCC2021.
+
+* 07/11/2021 VTC2021 Fall paper entitled *User Scheduling for Federated Learning Through Over-the-Air Computation* accepted, **Xiang Ma**, Haijian Sun, Qun Wang, Rose Q Hu, available on [arXiv](https://arxiv.org/abs/2108.02891)
 
 * 01/05/2021 Start to work as a TA for ECE 6600
 
 * 08/31/2020 Start to work as a TA for ECE 5600 and RA for RFID project.
 
-* 08/16/2020 GlobeCom 2020 paper titled *Scheduling Policy and Power Allocation for Federated Learning in NOMA based MEC* accepted, **Xiang Ma**, Haijian Sun, Rose Q Hu, available on [arXiv](https://arxiv.org/abs/2006.13044)
+* 08/16/2020 GlobeCom 2020 paper entitled *Scheduling Policy and Power Allocation for Federated Learning in NOMA based MEC* accepted, **Xiang Ma**, Haijian Sun, Rose Q Hu, available on [arXiv](https://arxiv.org/abs/2006.13044)
 
-* 07/23/2020 TVT paper Titled *Adaptive Federated Learning With Gradient Compression in Uplink NOMA* accepted. Haijian Sun, **Xiang Ma**, Rose Q Hu, available on [arXiv](https://arxiv.org/abs/2003.01344)
+* 07/23/2020 TVT paper entitled *Adaptive Federated Learning With Gradient Compression in Uplink NOMA* accepted. Haijian Sun, **Xiang Ma**, Rose Q Hu, available on [arXiv](https://arxiv.org/abs/2003.01344)
