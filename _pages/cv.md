@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 
-Updated version of my [CV]({include files/CV_XiangMa.pdf}) .
+Updated version of my [CV](http://maxiang.space/files/CV_XiangMa.pdf) .
 Last update: July 2021.
