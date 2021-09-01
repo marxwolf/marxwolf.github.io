@@ -203,12 +203,12 @@ defaults:
   #     share: true
   #     related: true
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+  # - scope:
+  #     path: ""
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
   # _teaching
   # - scope:
   #     path: ""
@@ -261,7 +261,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
