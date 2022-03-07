@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 
-* I am a Ph.D. student in the [ECE depatment](https://engineering.usu.edu/ece/) at [Utah State University](https://www.usu.edu/), advised by Prof. [Rose Hu](https://engineering.usu.edu/ece/people/faculty/hu-rose).
+* I am a Ph.D. candidate in the [ECE depatment](https://engineering.usu.edu/ece/) at [Utah State University](https://www.usu.edu/), advised by Prof. [Rose Hu](https://engineering.usu.edu/ece/people/faculty/hu-rose).
 * My research interests are machine learning application in wireless communication.
 
 * I received my Bachelor's Degree in [SUSTech](https://www.sustech.edu.cn/en/) advised by [Jin Zhang](http://faculty.sustech.edu.cn/zhangj4/en/)
 
 # Recent News
+
+* 03/01/2022 I passed the comprehensive exam and became a PhD candidate now.
 
 * 08/03/2021 Paper review for TVT, VTM, TWC, WCM, WiseML21, ICCC2021.
 
