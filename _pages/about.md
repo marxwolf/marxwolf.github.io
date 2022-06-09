@@ -16,6 +16,10 @@ redirect_from:
 
 # Recent News
 
+* 05/18/2022 I was elected to be a member of the graduate student council to represent college of engineering. 
+
+* 05/08/2022 I received IEEE ICC2022 NSF travel award.
+
 * 03/01/2022 I passed the comprehensive exam and became a PhD candidate now.
 
 * 08/03/2021 Paper review for TVT, VTM, TWC, WCM, WiseML21, ICCC2021.
