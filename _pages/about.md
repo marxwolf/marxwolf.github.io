@@ -16,7 +16,7 @@ redirect_from:
 
 # Recent News
 
-* 08/02/2022 GlobeCom 2020 paper entitled *A New Implementation of Federated Learning for Privacy and Security Enhancement* accepted, **Xiang Ma**, Haijian Sun, Rose Q Hu, Yi Qian, available on [arXiv](https://arxiv.org/abs/2208.01826)
+* 08/02/2022 GlobeCom 2022 paper entitled *A New Implementation of Federated Learning for Privacy and Security Enhancement* accepted, **Xiang Ma**, Haijian Sun, Rose Q Hu, Yi Qian, available on [arXiv](https://arxiv.org/abs/2208.01826)
 
 * 05/18/2022 I was elected to be a member of the graduate student council to represent college of engineering. 
 
