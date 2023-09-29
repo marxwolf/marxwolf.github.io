@@ -16,6 +16,8 @@ redirect_from:
 
 # Recent News
 
+* 04/05/2023 WiseML 2023 paper entitled *Approximate Wireless Communication for Federated Learning* accepted, **Xiang Ma**, Haijian Sun, Rose Q Hu, Yi Qian, available on [arXiv](https://arxiv.org/abs/2304.03359)
+
 * 08/02/2022 GlobeCom 2022 paper entitled *A New Implementation of Federated Learning for Privacy and Security Enhancement* accepted, **Xiang Ma**, Haijian Sun, Rose Q Hu, Yi Qian, available on [arXiv](https://arxiv.org/abs/2208.01826)
 
 * 05/18/2022 I was elected to be a member of the graduate student council to represent college of engineering. 
