@@ -9,4 +9,4 @@ redirect_from:
 
 
 Updated version of my [CV](http://maxiang.space/files/CV_XiangMa.pdf) .
-Last update: Aug 2022.
+Last update: Sept. 2023.
