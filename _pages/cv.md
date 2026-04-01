@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 
-Updated version of my [CV](http://maxiang.space/files/CV_XiangMa.pdf) .
+Updated version of my [CV](https://marxwolf.github.io/files/CV_XiangMa.pdf) .
 Last update: April. 2026.
