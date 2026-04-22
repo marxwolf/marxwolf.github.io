@@ -46,19 +46,3 @@ redirect_from:
 * 08/16/2020 GlobeCom 2020 paper entitled *Scheduling Policy and Power Allocation for Federated Learning in NOMA based MEC* accepted, **Xiang Ma**, Haijian Sun, Rose Q Hu, available on [arXiv](https://arxiv.org/abs/2006.13044)
 
 * 07/23/2020 TVT paper entitled *Adaptive Federated Learning With Gradient Compression in Uplink NOMA* accepted. Haijian Sun, **Xiang Ma**, Rose Q Hu, available on [arXiv](https://arxiv.org/abs/2003.01344)
-
-# Visitor Map
-
-<div class="visitor-widget js-visitor-widget">
-  <div class="visitor-widget__summary">
-    <p class="visitor-widget__count-label">Unique visitors</p>
-    <p class="visitor-widget__count"><span id="visitor-count">Loading...</span></p>
-    <p id="visitor-location" class="visitor-widget__location">Looking up your approximate location from your public IP address.</p>
-    <p id="visitor-status" class="visitor-widget__status">Loading visitor map...</p>
-  </div>
-  <div id="visitor-map" class="visitor-widget__map" aria-label="Visitor map"></div>
-</div>
-
-<noscript>
-  <p>The visitor map needs JavaScript enabled to load.</p>
-</noscript>
