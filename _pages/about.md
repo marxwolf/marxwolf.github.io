@@ -17,6 +17,8 @@ redirect_from:
 
 # Recent News
 
+* 04/2026, Attending National Conference on Undergraduate Research (NCUR) at Richmond, VA.
+
 * 09/2024, Starting the Assistant Professor job at UW-Eau Claire.
 
 * 08/2024, Graduated from Utah State University.
