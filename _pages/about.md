@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I am an Assistant Professor with Department of Computer Science at University of Wisconsin-Eau Cliare.
+* I am an Assistant Professor with Department of Computer Science at University of Wisconsin-Eau Claire.
 
-* Previously, I got my PhD from the [ECE depatment](https://engineering.usu.edu/ece/) at [Utah State University](https://www.usu.edu/), advised by Prof. [Rose Hu](https://engineering.usu.edu/ece/people/faculty/hu-rose).
+* Previously, I got my PhD from the [ECE department](https://engineering.usu.edu/ece/) at [Utah State University](https://www.usu.edu/), advised by Prof. [Rose Hu](https://engineering.usu.edu/ece/people/faculty/hu-rose).
 * My research interests are machine learning application in wireless communication.
 
 * I received my Bachelor's Degree in [SUSTech](https://www.sustech.edu.cn/en/) advised by [Jin Zhang](http://faculty.sustech.edu.cn/zhangj4/en/)
