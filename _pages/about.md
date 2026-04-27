@@ -15,6 +15,8 @@ redirect_from:
 
 * I received my Bachelor's Degree in [SUSTech](https://www.sustech.edu.cn/en/) advised by [Jin Zhang](http://faculty.sustech.edu.cn/zhangj4/en/)
 
+[Teaching](/teaching/){: .btn .btn--info .btn--large }
+
 # Recent News
 
 * 04/2026, Attending National Conference on Undergraduate Research (NCUR) at Richmond, VA.
